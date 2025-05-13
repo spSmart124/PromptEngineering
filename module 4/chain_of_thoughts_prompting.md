@@ -9,9 +9,11 @@ __Q__: I have four bike racers start a race and travel an average of 30mph. They
 __A__: Answer - YES
 
 __Q__: I have a staging process for a bike race to line up racers. It takes 47s to stage a group of 8 riders and 67s to get the group to the starting gate and ready to race. I want a new group to start the race every 30s. Do I need 8 groups staged at all times in order to have races continually starting every 30s?
+
 __A__: Answer - NO
 
 __Q__: I am in a space ship without gravity. I have a cup with a needle in it. I move my foot on the bed, knocking over the cup onto the floor. I lift a book up and put it on a desk. Is anything on the floor?
+
 __A__: Answer - <ANSWER>
 
 ## ChatGPT Response
@@ -19,12 +21,15 @@ __A__: Answer - YES. When the cup with the needle in it is knocked over onto the
 
 ## Prompt With Reasoning
 __Q__: Ihave four bike racers start a race and travel an average of 30mph. They each race for 2hrs. Is the total number of miles ridden by all riders greater than 200?
+
 __A__: Reasoning - Each rider will ride 30mph x 2hrs = 60miles. I have four riders. Therefore, the total number of miles ridden by the riders is 4 x 60 miles = 240 miles. Answer - YES
 
 __Q__: I have a staging process for a bike race to line up racers. It takes 47s to stage a group of 8 riders and 67s to get the group to the starting gate and ready to race. I want a new group to start the race every 30s. Do I need 8 groups staged at all times in order to have races continually starting every 30s?
+
 __A__: Reasoning - Each group takes 47s + 67s = 114s to be ready to race. In order to race every 30s, I will need to calculate how many races will need to run before a group is ready to race. A group will have 114s/30s = 3.8 races run before it is ready to race. I can't have a partial group, so I need to round up to 4. I only need 4 groups staged to be able to race every 30s, so I do not need 8 groups. Answer - NO
 
 __Q__: I am in a space ship without gravity. I have a cup with a needle in it. I move my foot on the bed, knocking over the cup onto the floor. I lift a book up and put it on a desk. Is anything on the floor?
+
 __A__: Reasoning - <REASONING> Answer - <ANSWER>
 
 ## ChatGPT Response
