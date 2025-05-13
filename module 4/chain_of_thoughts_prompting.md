@@ -5,6 +5,7 @@ When you try to solve a problem or provide an answer to a question you may be as
 
 ## Prompt Without Reasoning
 __Q__: I have four bike racers start a race and travel an average of 30mph. They each race for 2hrs. Is the total number of miles ridden by all riders greater than 200?
+
 __A__: Answer - YES
 
 __Q__: I have a staging process for a bike race to line up racers. It takes 47s to stage a group of 8 riders and 67s to get the group to the starting gate and ready to race. I want a new group to start the race every 30s. Do I need 8 groups staged at all times in order to have races continually starting every 30s?
