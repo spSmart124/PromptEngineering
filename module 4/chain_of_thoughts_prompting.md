@@ -34,3 +34,6 @@ __A__: Reasoning - <REASONING> Answer - <ANSWER>
 
 ## ChatGPT Response
 __A__: Reasoning - In a spaceship without gravity, objects do not behave as they do on Earth with gravity. When the cup with the needle in it is knocked over, the cup and needle will not fall to the "floor" as they would on Earth. Instead, they will float in place or move in the direction of the force applied to them. Similarly, when the book is lifted and placed on the desk, it will not stay on the desk as it would on Earth; it will float away from the desk unless secured in place. Therefore, in the absence of gravity, there is no concept of objects being "on the floor" as we understand it on Earth. Answer - NO (because there is no concept of "on the floor in a zero-gravity environment).
+
+## Additional Resource
+Chain-of-Thought Prompting Elicits Reasoning in Large Language Models: https://arxiv.org/abs/2201.11903
