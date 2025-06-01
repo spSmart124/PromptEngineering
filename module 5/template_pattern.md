@@ -22,7 +22,7 @@ Full Description: Holland Nimmons McTyeire was a bishop of the Methodist Episcop
 Church South who lobbied for the creation of a regional university in Nashville, leading to the founding of "The Central University of the Methodist Episcopal Church, South" in 1872. McTyeire stayed at the residence of Cornelius Vanderbilt in New York City and convinced him to donate $500,000 to endow the university. The endowment was later increased to $1 million, and the university was renamed Vanderbilt University in honor of Cornelius Vanderbilt. McTyeire served as the chairman of the Board of Trust for life as a stipulation of Vanderbilt's endowment. He also played a role in the university's split with the Methodist Church.
 
 ## Structure of Template Pattern
-## Contextual Statement
+### Contextual Statement
 To use this pattern, your prompt should make the following fundamental contextual statements:
 
 1. I am going to provide a template for your output 

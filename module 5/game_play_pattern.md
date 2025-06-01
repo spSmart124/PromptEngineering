@@ -35,7 +35,8 @@ The sentence contains 6 words.
 Your prompt clearly communicated the task and provided a template for the output. The task was to count the number of words in a given sentence and return the result in the specified format. Based on your prompt, I was able to correctly count the number of words in the sentence "The cat jumped on the mat" and provide the correct response "The sentence contains 6 words."
 
 
-## Prompt Structure of Game Play Pattern
+## Structure of Game Play Pattern
+
 ### Contextual Statement
 To use this pattern, your prompt should make the following fundamental contextual statements:
 
