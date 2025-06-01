@@ -34,3 +34,19 @@ How many words are in the following sentence: "The cat jumped on the mat."
 The sentence contains 6 words.
 Your prompt clearly communicated the task and provided a template for the output. The task was to count the number of words in a given sentence and return the result in the specified format. Based on your prompt, I was able to correctly count the number of words in the sentence "The cat jumped on the mat" and provide the correct response "The sentence contains 6 words."
 
+
+## Prompt Structure of Game Play Pattern
+### Contextual Statement
+To use this pattern, your prompt should make the following fundamental contextual statements:
+
+Create a game for me around X OR we are going to play an X game
+
+One or more fundamental rules of the game
+
+You will need to replace "X" with an appropriate game topic, such as "math" or "cave exploration game to discover a lost language". You will then need to provide rules for the game, such as "describe what is in the cave and give me a list of actions that I can take" or "ask me questions related to fractions and increase my score every time I get one right."
+
+### Examples:
+
+Create a cave exploration game  for me to discover a lost language. Describe where I am in the cave and what I can do. I should discover new words and symbols for the lost civilization in each area of the cave I visit. Each area should also have part of a story that uses the language. I should have to collect all the words and symbols to be able to understand the story. Tell me about the first area and then ask me what action to take. 
+
+Create a group party game for me involving DALL-E. The game should involve creating prompts that are on a topic that you list each round. Everyone will create a prompt and generate an image with DALL-E. People will then vote on the best prompt based on the image it generates. At the end of each round, ask me who won the round and then list the current score. Describe the rules and then list the first topic. 
